@@ -1,0 +1,6 @@
+{
+  "name": "BizMind AI",
+  "description": "AI-Powered Business Command Center, Multi-Agent Management & Digital Twin Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
